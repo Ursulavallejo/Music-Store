@@ -1,0 +1,53 @@
+
+.grid-container-header {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+}
+
+.logo img {
+    padding-top: 1.5em;
+    margin: 1em auto;
+    width: 120px;
+}
+
+.logo, .searchArea{
+    text-align: center;
+}
+
+.searchArea {
+    margin-top:  4em;
+}
+
+.searchArea input{
+    padding:0.5em 10em;
+    text-align: left;
+}
+
+.searchArea button{
+    padding: 0.5em;
+}
+
+.checkOut {
+    margin: 2em  2.5em;
+}
+
+.checkOut img {
+    width: 50px;
+    cursor: pointer;
+}
+
+.checkoutDropdownButton{
+    padding: 1em;
+    background-color: black;
+    color: white;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.checkoutDropdownButton:hover, .checkoutDropdownButton:focus {
+    background-color: mediumspringgreen;
+}
+
+.checkOut img:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}

@@ -1,0 +1,58 @@
+let dataProducts = [
+    {
+        artist: "Brandt Brauer Frick",
+        album: "Echo",
+        tag: "cd1",
+        price: 190,
+        img: "img1.jpg",
+    },
+    {
+        artist: "Goldfrapp",
+        album: "Tale of Us",
+        tag: "cd2",
+        price: 170,
+        img: "img2.jpg",
+    },
+    {
+        artist: "Incubus",
+        album: "Morning View",
+        tag: "cd3",
+        price: 120,
+        img: "img3.jpg",
+    },
+    {
+        artist: "Metric",
+        album: "Live It Out",
+        tag: "cd4",
+        price: 170,
+        img: "img4.jpg",
+    },
+    {
+        artist: "Röyksopp",
+        album: "Late Night Tales",
+        tag: "cd5",
+        price: 170,
+        img: "img5.jpg",
+    },
+    {
+        artist: "Stereolab",
+        album: "Electric Possessed",
+        tag: "cd6",
+        price: 300,
+        img: "img6.jpg",
+    },
+    {
+        artist: "Tiga",
+        album: "Sexor",
+        tag: "cd7",
+        price: 170,
+        img: "img7.jpg",
+    },
+    {
+        artist: "Agnes Obel",
+        album: "Late Night Tales",
+        tag: "cd8",
+        price: 170,
+        img: "img8.jpg",
+    },
+]

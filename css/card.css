@@ -1,0 +1,27 @@
+.cardCDInfo {
+    border: 1px solid black;
+    max-width: 250px;
+    padding: 1em;
+}
+
+img .cardCDInfo {
+    width: 290px;
+    margin: 5px;
+}
+
+.CardProducts-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 0.5em;
+    grid-column-gap: 0.5em;
+}
+
+.buyButton {
+    background-color: red;
+    color: white;
+    border-radius: 6px;
+    border-color: grey;
+    padding: 1em 5.5em;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}

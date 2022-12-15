@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+#page {
+    max-width: 1200px;
+    min-width: 720px;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    font-family: Tahoma, Helvetica, serif;
+}
+
+main {
+    max-width: 800px;
+    text-align: center;
+    margin: auto;
+}
+
+.introShop p {
+    text-autospace: initial;
+    line-height: 1.7em;
+}
