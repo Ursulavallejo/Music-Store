@@ -6,17 +6,17 @@ A simple music CD shop web app with a dynamic shopping cart. Users can browse al
 
 ---
 
-## General View
-
-![Demo Screenshot](img/demo.png)
-
----
-
 ### 🛠️ Technologies Used
 
 - **HTML5** for semantic page structure
 - **CSS3** (Flexbox & Grid) for layout and styling
 - **Vanilla JavaScript** for all cart-logic, event handling, and DOM updates
+
+---
+
+## General View
+
+![Demo Screenshot](img/demo.png)
 
 ---
 
